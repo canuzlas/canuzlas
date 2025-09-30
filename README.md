@@ -71,9 +71,11 @@ me.say_hi()
 
 </div>
 
+<div align="center">
+
 <table>
 <tr>
-<td width="33%">
+<td width="50%" align="center">
 
 #### 🎯 [SkinAI](https://github.com/canuzlas/SkinAI-7-Class-Skin-Disease-Recognition-with-TF)
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
@@ -87,7 +89,7 @@ Revolutionary skin disease classifier
 `TensorFlow` `CNN` `Medical AI`
 
 </td>
-<td width="33%">
+<td width="50%" align="center">
 
 #### 📧 [Smart Spam Detector](https://github.com/canuzlas/mail_spam_finder_ML)
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%">
@@ -101,7 +103,9 @@ Intelligent email classification
 `Scikit-learn` `NLP` `ML`
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%" align="center">
 
 #### 🎙️ [AI Voice Bot](https://github.com/canuzlas/gTts_n8n_telegram_bot)
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%">
@@ -115,9 +119,7 @@ Telegram voice synthesis
 `gTTS` `N8N` `Telegram API`
 
 </td>
-</tr>
-<tr>
-<td width="33%">
+<td width="50%" align="center">
 
 #### 🔊 [TTS Engine](https://github.com/canuzlas/tts-w-gTTS-pyttsx3)
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
@@ -131,12 +133,10 @@ Multi-engine text-to-speech
 `gTTS` `pyttsx3` `Audio`
 
 </td>
-<td width="33%">
-</td>
-<td width="33%">
-</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
