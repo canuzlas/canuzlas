@@ -74,63 +74,67 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🎯 [SkinAI](https://github.com/canuzlas/SkinAI-7-Class-Skin-Disease-Recognition-with-TF)
+#### 🎯 [SkinAI](https://github.com/canuzlas/SkinAI-7-Class-Skin-Disease-Recognition-with-TF)
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
 
-**Revolutionary skin disease classifier**
-- 🧬 7-class disease recognition
-- 📱 Mobile-optimized deployment
-- ⚖️ Advanced class balancing
-- 🎯 State-of-the-art accuracy
+Revolutionary skin disease classifier
+- 🧬 7-class recognition
+- 📱 Mobile-optimized
+- ⚖️ Class balancing
+- 🎯 High accuracy
 
-`TensorFlow` `CNN` `Medical AI` `Mobile ML`
+`TensorFlow` `CNN` `Medical AI`
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 📧 [Smart Spam Detector](https://github.com/canuzlas/mail_spam_finder_ML)
+#### 📧 [Smart Spam Detector](https://github.com/canuzlas/mail_spam_finder_ML)
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%">
 
-**Intelligent email classification**
-- 🎯 High-accuracy detection
-- 🤖 Multiple ML algorithms
-- ⚡ Lightning-fast processing
+Intelligent email classification
+- 🎯 High-accuracy
+- 🤖 Multiple ML algos
+- ⚡ Fast processing
 - 🔒 Production-ready
 
-`Scikit-learn` `NLP` `Classification` `ML`
+`Scikit-learn` `NLP` `ML`
+
+</td>
+<td width="33%">
+
+#### 🎙️ [AI Voice Bot](https://github.com/canuzlas/gTts_n8n_telegram_bot)
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%">
+
+Telegram voice synthesis
+- 🗣️ Natural voice
+- 🤖 N8N automation
+- 📱 Telegram integrated
+- 🌍 Multi-language
+
+`gTTS` `N8N` `Telegram API`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🎙️ [AI Voice Bot](https://github.com/canuzlas/gTts_n8n_telegram_bot)
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%">
-
-**Telegram voice synthesis system**
-- 🗣️ Natural voice generation
-- 🤖 N8N workflow automation
-- 📱 Seamless Telegram integration
-- 🌍 Multi-language support
-
-`gTTS` `N8N` `Telegram API` `Automation`
-
-</td>
-<td width="50%">
-
-### 🔊 [TTS Engine](https://github.com/canuzlas/tts-w-gTTS-pyttsx3)
+#### 🔊 [TTS Engine](https://github.com/canuzlas/tts-w-gTTS-pyttsx3)
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
 
-**Multi-engine text-to-speech**
-- 🎵 Human-like voice quality
-- 🔄 Multiple engine support
-- 🛠️ Highly customizable
-- 💡 Easy to integrate
+Multi-engine text-to-speech
+- 🎵 Human-like quality
+- 🔄 Multi-engine support
+- 🛠️ Customizable
+- 💡 Easy integration
 
-`gTTS` `pyttsx3` `Audio Processing` `Python`
+`gTTS` `pyttsx3` `Audio`
 
+</td>
+<td width="33%">
+</td>
+<td width="33%">
 </td>
 </tr>
 </table>
@@ -245,10 +249,8 @@ print(f"\n💡 Collaboration Status: {goals.collaboration_status}")
 
 ### 💭 *"The best way to predict the future is to invent it with AI"* 💭
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
-
 **⭐ Don't forget to star my repos if you find them useful! ⭐**
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
