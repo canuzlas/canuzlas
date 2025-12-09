@@ -1,20 +1,4 @@
-<div align="center">
 
-# 🌌 Welcome to My Digital Universe 🌌
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Can%20Uzlas&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=AI+%26+Machine+Learning+Architect+%F0%9F%A4%96;Python+Wizard+%F0%9F%90%8D;Building+Intelligence%2C+One+Model+at+a+Time+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 💫 *"In a world full of data, I create intelligence"* 💫
-
-[![](https://visitcount.itsvg.in/api?id=canuzlas&icon=5&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
----
 
 ## 🎯 Who Am I?
 
@@ -60,106 +44,6 @@ me.say_hi()
 
 ### 🎨 Specialties
 `Computer Vision` • `NLP` • `Deep Learning` • `Model Deployment` • `Automation` • `Data Science`
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Featured Creations
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-#### 🎯 [SkinAI](https://github.com/canuzlas/SkinAI-7-Class-Skin-Disease-Recognition-with-TF)
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
-
-Revolutionary skin disease classifier
-- 🧬 7-class recognition
-- 📱 Mobile-optimized
-- ⚖️ Class balancing
-- 🎯 High accuracy
-
-`TensorFlow` `CNN` `Medical AI`
-
-</td>
-<td width="50%" align="center">
-
-#### 📧 [Smart Spam Detector](https://github.com/canuzlas/mail_spam_finder_ML)
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%">
-
-Intelligent email classification
-- 🎯 High-accuracy
-- 🤖 Multiple ML algos
-- ⚡ Fast processing
-- 🔒 Production-ready
-
-`Scikit-learn` `NLP` `ML`
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-#### 🎙️ [AI Voice Bot](https://github.com/canuzlas/gTts_n8n_telegram_bot)
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%">
-
-Telegram voice synthesis
-- 🗣️ Natural voice
-- 🤖 N8N automation
-- 📱 Telegram integrated
-- 🌍 Multi-language
-
-`gTTS` `N8N` `Telegram API`
-
-</td>
-<td width="50%" align="center">
-
-#### 🔊 [TTS Engine](https://github.com/canuzlas/tts-w-gTTS-pyttsx3)
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
-
-Multi-engine text-to-speech
-- 🎵 Human-like quality
-- 🔄 Multi-engine support
-- 🛠️ Customizable
-- 💡 Easy integration
-
-`gTTS` `pyttsx3` `Audio`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img src="https://github-profile-trophy.vercel.app/?username=canuzlas&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=canuzlas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canuzlas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canuzlas&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=canuzlas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff" width="100%"/>
 
 </div>
 
@@ -242,14 +126,4 @@ print(f"\n💡 Collaboration Status: {goals.collaboration_status}")
 
 </div>
 
----
 
-<div align="center">
-
-### 💭 *"The best way to predict the future is to invent it with AI"* 💭
-
-**⭐ Don't forget to star my repos if you find them useful! ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
-
-</div>
