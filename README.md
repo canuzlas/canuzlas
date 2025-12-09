@@ -5,7 +5,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name = "Can Uzlas"
+        self.name = "Can Uzlaş"
         self.role = "AI/ML Developer"
         self.language_spoken = ["tr_TR", "en_US"]
         self.code = ["Python", "JavaScript", "SQL"]
