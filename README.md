@@ -1,29 +1,6 @@
 
 
-## 🎯 Who Am I?
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Can Uzlaş"
-        self.role = "AI/ML Developer"
-        self.language_spoken = ["tr_TR", "en_US"]
-        self.code = ["Python", "JavaScript", "SQL"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-        
-    def current_mission(self):
-        return {
-            "focus": "Creating AI solutions that make a difference",
-            "learning": ["Advanced Neural Networks", "MLOps", "Edge AI"],
-            "challenge": "Deploying ML models at scale",
-            "fun_fact": "I debug faster than I can explain the bug 🐛⚡"
-        }
-
-me = AIEngineer()
-me.say_hi()
-```
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
 <div align="center">
 
